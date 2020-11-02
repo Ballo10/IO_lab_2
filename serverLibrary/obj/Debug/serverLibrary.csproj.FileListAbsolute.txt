@@ -1,0 +1,12 @@
+C:\Users\Kacper\source\repos\serverLibrary\bin\Debug\serverLibrary.dll
+C:\Users\Kacper\source\repos\serverLibrary\bin\Debug\serverLibrary.pdb
+C:\Users\Kacper\source\repos\serverLibrary\obj\Debug\serverLibrary.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\serverLibrary\obj\Debug\serverLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\serverLibrary\obj\Debug\serverLibrary.dll
+C:\Users\Kacper\source\repos\serverLibrary\obj\Debug\serverLibrary.pdb
+C:\Users\Kacper\source\repos\IO_lab_2\serverLibrary\bin\Debug\serverLibrary.dll
+C:\Users\Kacper\source\repos\IO_lab_2\serverLibrary\bin\Debug\serverLibrary.pdb
+C:\Users\Kacper\source\repos\IO_lab_2\serverLibrary\obj\Debug\serverLibrary.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\IO_lab_2\serverLibrary\obj\Debug\serverLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\IO_lab_2\serverLibrary\obj\Debug\serverLibrary.dll
+C:\Users\Kacper\source\repos\IO_lab_2\serverLibrary\obj\Debug\serverLibrary.pdb
